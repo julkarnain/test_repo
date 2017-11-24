@@ -9,6 +9,13 @@ int my_strlen(char *s)
 
    return (p - s);
 }
+
+int add(int a , int b){
+	
+	return a + b;
+	
+}
+
 char *my_strcpy(char *t, char *s)
 
 {
